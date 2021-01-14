@@ -1,0 +1,99 @@
+{
+  "uid" : "1b30c8dca0036f28",
+  "name" : "Verify Address - Step 3/5 Checkout process to complete purchase",
+  "fullName" : "features/MyStore.feature:Verify Address - Step 3/5 Checkout process to complete purchase",
+  "historyId" : "7ac0ac426c88bda3e6a2706f341694ab",
+  "time" : {
+    "start" : 1610565272181,
+    "stop" : 1610565274863,
+    "duration" : 2682
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given User enters Addresses page",
+      "time" : {
+        "start" : 1610565272182,
+        "stop" : 1610565272182,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When User city and state matches appropriately",
+      "time" : {
+        "start" : 1610565272182,
+        "stop" : 1610565272183,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Click Proceed to Checkout in Address Page",
+      "time" : {
+        "start" : 1610565272183,
+        "stop" : 1610565274863,
+        "duration" : 2680
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "MyStore User Purchase"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b30c8dca0036f28.json",
+  "parameterValues" : [ ]
+}

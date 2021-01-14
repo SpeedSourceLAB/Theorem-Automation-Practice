@@ -1,0 +1,124 @@
+{
+  "uid" : "324bc478a3df99ac",
+  "name" : "Confirm Order",
+  "fullName" : "features/MyStore.feature:Confirm Order",
+  "historyId" : "1d20d8856ec2751d8ab9ff83cce7035a",
+  "time" : {
+    "start" : 1610565282714,
+    "stop" : 1610565288689,
+    "duration" : 5975
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError\n",
+  "statusTrace" : "  File \"c:\\users\\prade\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\prade\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\MyStore_Steps.py\", line 172, in step_impl\n    assert context.payment_page.get_text_ACCOUNT_OWNER_element() == \"Mickey Mouse\"\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError\n",
+    "statusTrace" : "  File \"c:\\users\\prade\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\prade\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\MyStore_Steps.py\", line 172, in step_impl\n    assert context.payment_page.get_text_ACCOUNT_OWNER_element() == \"Mickey Mouse\"\n",
+    "steps" : [ {
+      "name" : "Given User enters Bank-Wire Payment page",
+      "time" : {
+        "start" : 1610565282715,
+        "stop" : 1610565282716,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And Total Price is appropriate",
+      "time" : {
+        "start" : 1610565282716,
+        "stop" : 1610565282717,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Click I confirm my order",
+      "time" : {
+        "start" : 1610565282718,
+        "stop" : 1610565286632,
+        "duration" : 3914
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Account owner name is displayed appropriately",
+      "time" : {
+        "start" : 1610565286633,
+        "stop" : 1610565288687,
+        "duration" : 2054
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError\n",
+      "statusTrace" : "  File \"c:\\users\\prade\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\prade\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\MyStore_Steps.py\", line 172, in step_impl\n    assert context.payment_page.get_text_ACCOUNT_OWNER_element() == \"Mickey Mouse\"\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "MyStore User Purchase"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "324bc478a3df99ac.json",
+  "parameterValues" : [ ]
+}

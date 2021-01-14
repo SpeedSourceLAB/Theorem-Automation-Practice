@@ -38,13 +38,13 @@ Feature: MyStore User Purchase
   Scenario: Verify Address - Step 3/5 Checkout process to complete purchase
     Given User enters Addresses page
     When User city and state matches appropriately
-    Then Click Proceed to Checkout
+    Then Click Proceed to Checkout in Address Page
 
   Scenario: Shipping Details - Step 4/5 Checkout process to complete purchase
     Given User enters shipping page
     When Shipping details are displayed
     And User agrees to Terms of service
-    Then Click Proceed to Checkout
+    Then Click Proceed to Checkout in Shipping Page
 
   Scenario: Choose a payment method - Step 5/5 Checkout process to complete purchase
     When User enters Payment method page

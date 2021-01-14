@@ -1,0 +1,99 @@
+{
+  "uid" : "6063ff9ab3197adb",
+  "name" : "User adds Item to cart and proceeds to checkout",
+  "fullName" : "features/MyStore.feature:User adds Item to cart and proceeds to checkout",
+  "historyId" : "163bd588dc3eaf76e0aa019a92f67268",
+  "time" : {
+    "start" : 1610565254910,
+    "stop" : 1610565259741,
+    "duration" : 4831
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When User clicks Add to cart",
+      "time" : {
+        "start" : 1610565254913,
+        "stop" : 1610565256977,
+        "duration" : 2064
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Proceed to checkout popup opens",
+      "time" : {
+        "start" : 1610565256977,
+        "stop" : 1610565256978,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And User Clicks on Proceed to checkout",
+      "time" : {
+        "start" : 1610565256978,
+        "stop" : 1610565259741,
+        "duration" : 2763
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "MyStore User Purchase"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6063ff9ab3197adb.json",
+  "parameterValues" : [ ]
+}

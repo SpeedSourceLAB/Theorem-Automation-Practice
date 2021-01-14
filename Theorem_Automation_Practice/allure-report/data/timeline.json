@@ -1,0 +1,135 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Verify Address - Step 3/5 Checkout process to complete purchase",
+    "uid" : "1b30c8dca0036f28",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565272181,
+      "stop" : 1610565274863,
+      "duration" : 2682
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Confirm Order",
+    "uid" : "324bc478a3df99ac",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1610565282714,
+      "stop" : 1610565288689,
+      "duration" : 5975
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User shares an item in Social Media",
+    "uid" : "a979724b6326c650",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565254899,
+      "stop" : 1610565254905,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "SHOPPING-CART SUMMARY - Step 1/5 Checkout process to complete purchase",
+    "uid" : "f5251b311067d2ff",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565259743,
+      "stop" : 1610565263844,
+      "duration" : 4101
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Choose a payment method - Step 5/5 Checkout process to complete purchase",
+    "uid" : "56c81b7016135481",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565279712,
+      "stop" : 1610565282711,
+      "duration" : 2999
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User Sign in - Step 2/5 Checkout process to complete purchase",
+    "uid" : "5aecd73eb2301221",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565263848,
+      "stop" : 1610565272178,
+      "duration" : 8330
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "MyStore Set up",
+    "uid" : "727e77885484b48f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565245758,
+      "stop" : 1610565252877,
+      "duration" : 7119
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Shipping Details - Step 4/5 Checkout process to complete purchase",
+    "uid" : "50cc90092e69703e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565274866,
+      "stop" : 1610565279710,
+      "duration" : 4844
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User adds Item to cart and proceeds to checkout",
+    "uid" : "6063ff9ab3197adb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565254910,
+      "stop" : 1610565259741,
+      "duration" : 4831
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User browses \"Women's Evening dresses\"",
+    "uid" : "869bc64f3971d5d3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610565252880,
+      "stop" : 1610565254895,
+      "duration" : 2015
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

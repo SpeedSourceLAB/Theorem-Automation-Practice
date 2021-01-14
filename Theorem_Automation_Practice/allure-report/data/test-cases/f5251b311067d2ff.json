@@ -1,0 +1,99 @@
+{
+  "uid" : "f5251b311067d2ff",
+  "name" : "SHOPPING-CART SUMMARY - Step 1/5 Checkout process to complete purchase",
+  "fullName" : "features/MyStore.feature:SHOPPING-CART SUMMARY - Step 1/5 Checkout process to complete purchase",
+  "historyId" : "e765f794ef071b184c6630e8393de105",
+  "time" : {
+    "start" : 1610565259743,
+    "stop" : 1610565263844,
+    "duration" : 4101
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given SHOPPING-CART SUMMARY page is dislayed",
+      "time" : {
+        "start" : 1610565259744,
+        "stop" : 1610565259744,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Check the availability as In Stock",
+      "time" : {
+        "start" : 1610565259745,
+        "stop" : 1610565259745,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Click Proceed to Checkout",
+      "time" : {
+        "start" : 1610565259745,
+        "stop" : 1610565263844,
+        "duration" : 4099
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "MyStore User Purchase"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5251b311067d2ff.json",
+  "parameterValues" : [ ]
+}

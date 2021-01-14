@@ -1,0 +1,101 @@
+[ {
+  "uid" : "869bc64f3971d5d3",
+  "name" : "User browses \"Women's Evening dresses\"",
+  "time" : {
+    "start" : 1610565252880,
+    "stop" : 1610565254895,
+    "duration" : 2015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "727e77885484b48f",
+  "name" : "MyStore Set up",
+  "time" : {
+    "start" : 1610565245758,
+    "stop" : 1610565252877,
+    "duration" : 7119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50cc90092e69703e",
+  "name" : "Shipping Details - Step 4/5 Checkout process to complete purchase",
+  "time" : {
+    "start" : 1610565274866,
+    "stop" : 1610565279710,
+    "duration" : 4844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5aecd73eb2301221",
+  "name" : "User Sign in - Step 2/5 Checkout process to complete purchase",
+  "time" : {
+    "start" : 1610565263848,
+    "stop" : 1610565272178,
+    "duration" : 8330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6063ff9ab3197adb",
+  "name" : "User adds Item to cart and proceeds to checkout",
+  "time" : {
+    "start" : 1610565254910,
+    "stop" : 1610565259741,
+    "duration" : 4831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "324bc478a3df99ac",
+  "name" : "Confirm Order",
+  "time" : {
+    "start" : 1610565282714,
+    "stop" : 1610565288689,
+    "duration" : 5975
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a979724b6326c650",
+  "name" : "User shares an item in Social Media",
+  "time" : {
+    "start" : 1610565254899,
+    "stop" : 1610565254905,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56c81b7016135481",
+  "name" : "Choose a payment method - Step 5/5 Checkout process to complete purchase",
+  "time" : {
+    "start" : 1610565279712,
+    "stop" : 1610565282711,
+    "duration" : 2999
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b30c8dca0036f28",
+  "name" : "Verify Address - Step 3/5 Checkout process to complete purchase",
+  "time" : {
+    "start" : 1610565272181,
+    "stop" : 1610565274863,
+    "duration" : 2682
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5251b311067d2ff",
+  "name" : "SHOPPING-CART SUMMARY - Step 1/5 Checkout process to complete purchase",
+  "time" : {
+    "start" : 1610565259743,
+    "stop" : 1610565263844,
+    "duration" : 4101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
