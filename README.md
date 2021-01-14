@@ -106,11 +106,11 @@ Other Scenarios
 
 Further Enchancements
 ==============
-1)Better use of OOPS concetps in framework to enchance resuability and flexibility.
+1)Integrate with Jenkins to achieve CI/CD pipeline.
 
-2)Better comments, and better implmentation of  logging module.
+2)Improve usage of OOPS concetps in framework to enchance resuability and flexibility.
 
-3)Integrate with Jenkins to achieve CI/CD pipeline.
+3)Improve implmentation of  logging module and provide better comments.
 
 4)Write well customized xpaths/css for web elements.
 
@@ -122,7 +122,7 @@ Further Enchancements
 
 8)Add performance tests.
 
-9)Perform Data Driven Testing for both quality and coverage with out massive number of testcases.
+9)Perform Data Driven Testing for both quality and test coverage with out massive number of testcases.
 
 10)Last but not the least, early testing and testing often will add tremendous value.
 
