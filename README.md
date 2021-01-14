@@ -50,6 +50,18 @@ Note: Sleep is added in some places intentionally to slow down inorder observe t
 
 Test report
 ============
+To view reports download Allure Command line from
+
+https://github.com/allure-framework/allure2/releases/tag/2.13.5
+
+Set path to bin in  environment variables
+
+Then open command prompt and provide the command allure open with the path of directory where index.html is located. 
+ 
+ C:\Users\prade>allure open C:\Users\prade\Theorem\Theorem-Automation-Practice\Theorem_Automation_Practice\allure-report
+
+Alternatively, you can open the result HTML file from your IDE choosing to view in browser from below locations. 
+
 1)HTML format available at below location:
 
 Theorem-Automation-Practice/Theorem_Automation_Practice/allure-report/index.html
