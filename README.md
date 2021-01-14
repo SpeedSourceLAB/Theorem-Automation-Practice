@@ -40,11 +40,23 @@ Technology Stack:
 
   pip install -r requirements.txt
 
-7)To Execute test suite, in terminal, move to Theorem_Automation_Practice directory and give command "behave"
+7)To Execute test suite (Theorem_Automation_Practice/features/steps/MyStore_Steps.py)
+ 
+ In terminal, move to Theorem_Automation_Practice directory and give command "behave"
 
    Ex: C:\PycharmProjects\Theorem-Automation-Practice\Theorem_Automation_Practice> behave
 
 Note: Sleep is added in some places intentionally to slow down inorder observe the flow.
+
+Test report
+============
+1)HTML format available at below location:
+
+Theorem-Automation-Practice/Theorem_Automation_Practice/allure-report/index.html
+
+2)Json format available at below location:
+
+Theorem_Automation_Practice/reports
 
 
 Some other Scenarios that can be implemeted but not limited to:
