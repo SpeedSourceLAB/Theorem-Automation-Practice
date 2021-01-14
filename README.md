@@ -48,6 +48,19 @@ Technology Stack:
 
 Note: Sleep is added in some places intentionally to slow down inorder observe the flow.
 
+The Expected result will be 
+
+0 features passed, 1 failed, 0 skipped
+
+9 scenarios passed, 1 failed, 0 skipped
+
+34 steps passed, 1 failed, 0 skipped, 0 undefined
+
+Took 0m40.358s
+
+As 1 of the scenario out of 10 fails in this implementation,the feature is failed for now.
+
+
 Test report
 ============
 To view reports download Allure Command line from
