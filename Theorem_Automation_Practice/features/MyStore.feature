@@ -8,10 +8,10 @@ Feature: MyStore User Purchase
     Then MyStore website is opened successfully with title "My Store"
      And MyStore logo is displayed on webpage
 
-  Scenario: User browses "Women's Evening dresses"
+  Scenario: User browses "Women's Summer dresses"
     When User hovers Dresses
-    And Chooses Evening Dresses
-    Then MyStore displays the catalog of evening dresses
+    And Chooses Summer Dresses
+    Then MyStore displays the catalog of Summer dresses and user chooses one
 
   Scenario: User shares an item in Social Media
     When User chooses one item from the catalog displayed by clicking More

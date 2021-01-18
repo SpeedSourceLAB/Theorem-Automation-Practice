@@ -25,11 +25,11 @@ def step_validate_website_logo_display(context):
 def step_impl(context):
     assert context.home_page.hover_DRESSES_element()
 
-@when(u'Chooses Evening Dresses')
+@when(u'Chooses Summer Dresses')
 def step_impl(context):
     assert context.home_page.click_SUMMER_DRESSES_element()
 
-@then(u'MyStore displays the catalog of evening dresses')
+@then(u'MyStore displays the catalog of Summer dresses and user chooses one')
 def step_impl(context):
     assert context.summer_dresses_page.choose_one_SUMMER_DRESS_ELEMENT()
 
