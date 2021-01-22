@@ -23,6 +23,7 @@ def step_validate_website_logo_display(context):
 
 @when(u'User hovers Dresses')
 def step_impl(context):
+    print('Dresses catalog')
     assert context.home_page.hover_DRESSES_element()
 
 @when(u'Chooses Summer Dresses')
